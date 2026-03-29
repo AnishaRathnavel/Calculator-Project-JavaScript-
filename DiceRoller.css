@@ -1,0 +1,29 @@
+#container{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 20px;
+}
+button{
+    font-size: 20px;
+    padding: 5px 10px;
+    border-radius:10px;
+    cursor:pointer;
+    border:none;
+}
+button:hover{
+    background-color: rgb(199, 104, 104);
+}
+input{
+    font-size:20px;
+    text-align:center;
+    font-weight:bold;
+}
+#diceResult{
+    margin: 15px;
+    font-weight:bolder;
+    text-align: center;
+}
+#diceImages img{
+    width: 300px;
+    margin: 10px;
+}
